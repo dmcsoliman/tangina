@@ -1,0 +1,10 @@
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\bin\Debug\COMPSAD GUI.exe.config
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\bin\Debug\COMPSAD GUI.exe
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\bin\Debug\COMPSAD GUI.pdb
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\obj\Debug\COMPSAD GUI.csprojAssemblyReference.cache
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\obj\Debug\COMPSAD_GUI.Properties.Resources.resources
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\obj\Debug\COMPSAD GUI.csproj.GenerateResource.cache
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\obj\Debug\COMPSAD GUI.exe
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\obj\Debug\COMPSAD GUI.pdb
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\obj\Debug\COMPSAD_GUI.Form1.resources
+C:\Users\David Soliman\source\repos\COMPSAD GUI\COMPSAD GUI\obj\Debug\COMPSAD_GUI.Main.resources
